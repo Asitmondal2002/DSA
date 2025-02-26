@@ -1,5 +1,5 @@
 
-//code to print the inverted half-pyramid
+//program to pattern print
 import java.util.*;
 
 public class pattern2 {
